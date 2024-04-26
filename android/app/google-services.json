@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "834749742869",
+    "firebase_url": "https://employee-db-acd36-default-rtdb.firebaseio.com",
+    "project_id": "employee-db-acd36",
+    "storage_bucket": "employee-db-acd36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834749742869:android:5caae18c643bf4c3ceb31c",
+        "android_client_info": {
+          "package_name": "com.example.employee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBidq8GNk_Yci31fUl8vcx1gPgJVCbFexs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
